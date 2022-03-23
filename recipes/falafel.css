@@ -1,0 +1,33 @@
+body {
+    background-color: blanchedalmond;
+}
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img {
+    height: auto;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.caption-one {
+    text-align: left;
+    font-size: 20px;
+}
+.sub-one,.sub-two {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ul,.ol {
+    text-align: left;
+    font-size: 20px;
+}
